@@ -1,6 +1,6 @@
 package contadoragua;
 
-import contadoragua.controller.Calculadora;
+import main.contadoragua.controller.Calculadora;
 import contadoragua.model.Valores;
 
 public class Main {
